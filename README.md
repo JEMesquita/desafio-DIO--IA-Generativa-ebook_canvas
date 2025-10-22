@@ -1,0 +1,1 @@
+# desafio-DIO--IA-Generativa-ebook_canvas
